@@ -11,8 +11,8 @@ public class Ejercicio3_ErrorIntencional
         //numero = 9;
         // TODO: Lee el error que te da Visual Studio
         // TODO: Comenta la línea que causa el error
-        // TODO: Retorna un mensaje con el valor de la constante
-        return $"{numero}"; //OJO: reemplaza este texto
+        // TODO: Retorna un mensaje "mi constante X" con el valor de la constante
+        return $"mi constante {numero}"; //OJO: reemplaza este texto
         throw new NotImplementedException();
     }
     
